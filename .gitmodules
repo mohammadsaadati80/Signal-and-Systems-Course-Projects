@@ -4,3 +4,6 @@
 [submodule "CA2"]
 	path = CA2
 	url = https://github.com/mohammadsaadati80/Fourier-Transform-and-its-Applications.git
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/mohammadsaadati80/Lcapy.git
